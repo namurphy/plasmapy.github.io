@@ -1,0 +1,63 @@
+#description { 
+    text-align: center;
+    max-width: 60%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.main-text-block {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/* Title */
+.p-name.entry-title {
+    text-align: center;
+    margin: auto;
+}
+
+.plasmapy-note {
+    background-color: #e6fafa;
+    padding: 12px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.plasmapy-note-title {
+    background: #58a8a8;
+    font-weight: bold;
+    display: block;
+    color: #fff;
+    margin: -12px;
+    padding: 6px 12px;
+    margin-bottom: 12px;
+    font-family: inherit;
+}
+
+/* .plasmapy-note-title:before{content: "⚠"}
+
+/* Tables */
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
