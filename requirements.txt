@@ -1,2 +1,0 @@
-Nikola>=7.8.10
-webassets>=0.12.1
